@@ -1,7 +1,7 @@
 # SuperManager
 ![preview](https://i.ibb.co/3mRvNvdT/screen0.png)
 
-SuperManager is a powewrfull tool that can do certian commands:
+SuperManager is a powerfull tool that can do certian commands:
 1) Open CMD / POWERSHELL
 2) Open TASK MANAGER
 3) Open Process Hacker (System Informer)
